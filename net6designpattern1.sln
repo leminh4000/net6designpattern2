@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net6designpattern1", "net6designpattern1\net6designpattern1.csproj", "{F78F6710-EDC2-4135-8B14-50683CC5EF86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c03SingleResp01", "c03SingleResp01\c03SingleResp01.csproj", "{CB6D464E-1777-491A-9923-99D917E1DE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c03SingleResp02", "c03SingleResp02\c03SingleResp02.csproj", "{2CE30B70-A267-48D9-B10A-99D0A73BBE30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{F78F6710-EDC2-4135-8B14-50683CC5EF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F78F6710-EDC2-4135-8B14-50683CC5EF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F78F6710-EDC2-4135-8B14-50683CC5EF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB6D464E-1777-491A-9923-99D917E1DE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6D464E-1777-491A-9923-99D917E1DE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6D464E-1777-491A-9923-99D917E1DE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6D464E-1777-491A-9923-99D917E1DE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE30B70-A267-48D9-B10A-99D0A73BBE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE30B70-A267-48D9-B10A-99D0A73BBE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE30B70-A267-48D9-B10A-99D0A73BBE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE30B70-A267-48D9-B10A-99D0A73BBE30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
